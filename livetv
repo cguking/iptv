@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="CA" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="Entertainment",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-country="US" tvg-logo="https://i.imgur.com/GBIoooY.jpg" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="News",EN: BLOOMBERG US HD
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
+https://30a-tv.com/music.m3u8?fluxustv.m3u8
+x.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
