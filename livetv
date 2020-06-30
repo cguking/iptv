@@ -193,3 +193,5 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u
 http://cdn30.liveonlineservices.com/hls/desitv.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="Undefined",Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="Undefined",Dove Channel
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
