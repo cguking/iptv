@@ -195,5 +195,3 @@ http://cdn30.liveonlineservices.com/hls/desitv.m3u8
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="Undefined",Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
-#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="5.star.max.eastern.us" tvg-type="live" group-title="Entertainment" tvg-logo="https://media.tv4.live/5.star.max.eastern.us.png",5 Star Max (East)
-https://tv4.live/api/stream/furiousgamersgotgame@gmail.com/83683/livetv.epg/5.star.max.eastern.us.m3u8
