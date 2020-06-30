@@ -163,3 +163,5 @@ http://livefr.cgtn.com/1000e/prog_index.m3u
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/47wqLpY.png" group-title="Undefined",CNBC Europe,US | CNBC Europe
 https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="Undefined",CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
