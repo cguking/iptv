@@ -97,3 +97,5 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MZuZMNW.png" group-title="USA LOCAL",Des Moines: WHO 13 News
 https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="USA LOCAL",Detroit: ABC 7 News
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
