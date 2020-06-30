@@ -115,3 +115,5 @@ https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?fluxustv.m3u8
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) Comet TV (Geo),Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="Undefined",(ONLINE) Gracia TV,Gracia Tv
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8
