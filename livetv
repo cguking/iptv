@@ -157,3 +157,5 @@ http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CGTN Documentary (Opt-2)
 http://livefr.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CGTN Espaï¿½ol (Opt-2)
+http://livefr.cgtn.com/1000e/prog_index.m3u
