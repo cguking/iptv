@@ -73,10 +73,11 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Local",ABC 9 Chattanooga TN (WTVC)
 https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/nEcuCl9.png" tvg-country="US" tvg-url="" group-title="Local",Action News Jax (WJAX-TV)
 https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/MQET539.jpg" tvg-country="US" tvg-url="" group-title="Local",Akaku 53 (Hawaii)
 https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-2)
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
