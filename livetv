@@ -145,3 +145,5 @@ https://biglife.sinclair.wurl.com/manifest/3000.m3u8
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="Undefined",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bright Smart Channel (Opt-1)
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
