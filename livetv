@@ -93,3 +93,5 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",Boston: 7News 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqfOsIO.png" group-title="USA LOCAL",Dayton: WHIO 7 News 
+http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
