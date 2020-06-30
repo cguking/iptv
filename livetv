@@ -109,4 +109,5 @@ http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
 http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdGg9lP.png" group-title="NETHERLANDS",1Limburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NliaZhK.png" group-title="DENMARK",KVF
+https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?fluxustv.m3u8
