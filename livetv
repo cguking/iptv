@@ -113,3 +113,5 @@ http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1l5NSz.png" group-title="NORWAY",Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) Comet TV (Geo),Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
