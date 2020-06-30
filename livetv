@@ -89,3 +89,5 @@ https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="USA",Urban Music 4U
+https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
