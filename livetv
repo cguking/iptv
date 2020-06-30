@@ -105,3 +105,5 @@ http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMyZ9lC.png" group-title="USA LOCAL",Cleveland: Fox 8 News
 http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yc2j7MW.png" group-title="USA LOCAL",N. Carolina: MyFox8 News
+http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
