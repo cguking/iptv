@@ -91,3 +91,5 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="USA",Urban Music 4U
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",Boston: 7News 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
