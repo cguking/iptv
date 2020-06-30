@@ -187,3 +187,5 @@ https://media.ksl.com/watchit/vod/41534/playlist.m3u8
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="Religious",Christian Youth Channel
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DWKC-TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u
