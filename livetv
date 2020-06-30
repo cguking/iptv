@@ -143,3 +143,5 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/4pEmcFH.png" group-title="Undefined",Biz TV HD,US | Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/uGL7M09.jpg" group-title="Undefined",Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
