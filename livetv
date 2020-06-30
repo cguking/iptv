@@ -185,3 +185,5 @@ https://5b38ce71f1f00.streamlock.net/8162/8162/.m3u8
 https://media.ksl.com/watchit/vod/41534/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="Undefined",Charge!,Entertainment TV:Charge (Geo)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="Religious",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
