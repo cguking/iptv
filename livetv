@@ -85,7 +85,7 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNp0cBp.png" group-title="USA",WMFD 68 Ohio
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="USA",TNT (Opt-2)
+#EXTINF:-1  group-title="USA",USA (Opt-2)
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
