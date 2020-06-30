@@ -100,7 +100,9 @@ https://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8sQ5mfL.png" group-title="USA LOCAL",Detroit: ABC 7 News
 https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjiGvk8.png" group-title="USA LOCAL",Idaho: KTVB 7 News
-http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u88
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Religious",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="USA LOCAL",Baton Rouge: WBRZ 2 Plus
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMyZ9lC.png" group-title="USA LOCAL",Cleveland: Fox 8 News
@@ -129,3 +131,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="Undefined",3ABN Dare to Dream,US | 3ABN Dare to Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
+8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Religious",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
