@@ -169,3 +169,5 @@ http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
 https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
