@@ -131,6 +131,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="Undefined",3ABN Dare to Dream,US | 3ABN Dare to Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
-8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Religious",3ABN Latino
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="Undefined",3ABN International,US | 3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
