@@ -177,3 +177,5 @@ https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Canada Star TV
 http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w565131793_b2800000.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Channel 36,Mirame TV
+https://593fa17dec176.streamlock.net:455/mirametv/mirametv/playlist.m3u8
