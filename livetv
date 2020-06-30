@@ -77,5 +77,7 @@ https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV 
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VI7V1A.png" group-title="USA",USA Network
+#EXTINF:-1  group-title="WWE NETWORK",WWE
 http://cdnak8.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="USA",Westerns 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
