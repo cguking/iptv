@@ -81,3 +81,5 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 http://cdnak8.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="USA",Westerns 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYB6Ae8.png" group-title="USA",Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
