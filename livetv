@@ -147,3 +147,5 @@ https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bright Smart Channel (Opt-1)
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
