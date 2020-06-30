@@ -149,3 +149,5 @@ https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Undefined",CA | Legislative Assembly of Ontario,Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
