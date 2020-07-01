@@ -195,3 +195,5 @@ http://cdn30.liveonlineservices.com/hls/desitv.m3u8
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="Undefined",Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+#EXTINF:0,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
