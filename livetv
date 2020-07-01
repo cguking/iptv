@@ -201,3 +201,5 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:0,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:0,KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
