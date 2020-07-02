@@ -251,15 +251,16 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31203.m3u8?checkedby:iptvcat.
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31191.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Discovery Science
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31231.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 Disney JR
+#EXTINF:-1 , Disney JR
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/97701.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 !E
+#EXTINF:-1 , !E
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31232.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ESPN 2
+#EXTINF:-1 , ESPN 2
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31137.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ESPN DEPORTES
+#EXTINF:-1 , ESPN DEPORTES
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31238.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 FOX Kentucky
+#EXTINF:-1 , FOX Kentucky
 http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8?checkedby:iptvcat.com
-#EXTINF-1 FOX Tulsa OK
+#EXTINF-1 , FOX Tulsa OK
 http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , FOX Alabama
