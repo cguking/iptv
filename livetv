@@ -261,6 +261,7 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31137.m3u8?checkedby:iptvcat.
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31238.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , FOX Kentucky
 http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8?checkedby:iptvcat.com
-#EXTINF-1 , FOX Tulsa OK
+#EXTINF:-1 , FOX Tulsa OK
 http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , FOX Alabama
+#EXTINF:-1 , FX
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31189.m3u8?checkedby:iptvcat.com
