@@ -323,3 +323,5 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31234.m3u8?checkedby:iptvcat.
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31116.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , TNT
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31225.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8?checkedby:iptvcat.com
