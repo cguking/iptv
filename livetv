@@ -265,3 +265,5 @@ http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8?checkedby:
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31189.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Food Network
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/97703.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , GSN
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31132.m3u8?checkedby:iptvcat.com
