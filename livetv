@@ -223,13 +223,15 @@ https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checke
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31193.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Animal Planet
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31227.m3u8?checkedby:iptvcat.com
-#EXTINF:-1, BET HER
+#EXTINF:-1 , BET HER
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31164.m3u8?checkedby:iptvcat.com
-#EXTINF:-1, Black Cinema
+#EXTINF:-1 , Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
-#EXTINF:-1 Blaze Tv
+#EXTINF:-1 , Blaze Tv
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 Bravo
+#EXTINF:-1 , Bravo
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31142.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 CBS NEWS Los Angelas
+#EXTINF:-1 , CBS NEWS Los Angelas
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , CBS New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?checkedby:iptvcat.com
