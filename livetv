@@ -329,3 +329,5 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/57941.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , VH1
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31119.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8?checkedby:iptvcat.com
