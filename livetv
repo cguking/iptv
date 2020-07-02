@@ -4,7 +4,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-language="English" tvg-country="US" tvg-logo="https://i.imgur.com/GBIoooY.jpg" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="News",EN: BLOOMBERG US HD
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomAevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I4iIdVj.png" group-title="USA",Buzzr 
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
@@ -85,8 +85,6 @@ https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNp0cBp.png" group-title="USA",WMFD 68 Ohio
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:-1  group-title="USA",USA (Opt-2)
-http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBokzH9.png" group-title="USA",Urban Music 4U
@@ -119,8 +117,6 @@ http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/play
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="Undefined",(ONLINE) Gracia TV,Gracia Tv
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AHC
-http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/9846
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
