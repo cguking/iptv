@@ -235,3 +235,5 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31142.m3u8?checkedby:iptvcat.
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , CBS New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , CBS Sports
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31214.m3u8?checkedby:iptvcat.com
