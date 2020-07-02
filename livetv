@@ -239,3 +239,5 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?check
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31214.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , CNN
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31204.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 CW 
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31230.m3u8?checkedby:iptvcat.com
