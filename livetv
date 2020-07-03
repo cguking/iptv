@@ -28,3 +28,7 @@ EXTINF:-1 , Biz TV
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8?checkedby:iptvcat.com
 EXTINF:-1 , Blaze TV 
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8?checkedby:iptvcat.com
+EXTINF:-1 , Bloomberg 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8?checkedby:iptvcat.com
+EXTINF:-1 , Boston 25 (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8?checkedby:iptvcat.com
