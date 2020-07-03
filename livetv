@@ -42,3 +42,5 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?checkedby:iptvcat
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , CBS Albany
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 CBS Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?checkedby:iptvcat.com
