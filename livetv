@@ -24,17 +24,19 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8?checkedby:iptvcat
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Better Life TV
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8?checkedby:iptvcat.com
-EXTINF:-1 , Biz TV
+#EXTINF:-1 , Biz TV
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8?checkedby:iptvcat.com
-EXTINF:-1 , Blaze TV 
+#EXTINF:-1 , Blaze TV 
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8?checkedby:iptvcat.com
-EXTINF:-1 , Bloomberg 
+#EXTINF:-1 , Bloomberg 
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8?checkedby:iptvcat.com
-EXTINF:-1 , Boston 25 (WFXT)
+#EXTINF:-1 , Boston 25 (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8?checkedby:iptvcat.com
-EXTINF:-1 , BUZZR(USA)
+#EXTINF:-1 , BUZZR(USA)
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8?checkedby:iptvcat.com
-EXTINF:-1 CBN (USA)
+#EXTINF:-1 CBN (USA)
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8?checkedby:iptvcat.com
-EXTINF:-1 CBN(Espanol)
+#EXTINF:-1 CBN(Espanol)
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
