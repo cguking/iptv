@@ -8,3 +8,23 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?checkedb
 https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , CBS Jacksonville Florida
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , American Horror Channel
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Beach Tv (Panema)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 Beach City (Pawleys Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8?checkedby:iptvcat.com
+EXTINF:-1 , Biz TV
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8?checkedby:iptvcat.com
+EXTINF:-1 , Blaze TV 
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8?checkedby:iptvcat.com
