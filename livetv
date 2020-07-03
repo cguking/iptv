@@ -205,8 +205,6 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 ,Prime Asia TV
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , ABC IRELAND
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , 5 Star Max
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31172.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , A&E OPT 2
@@ -341,3 +339,5 @@ http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31107.m3u8?checkedby:iptvcat.
 http://stariptv.top:2086/7899/7899/7746?checkedby:iptvcat.com
 #EXTINF:-1 , 8x Music (Pakistan)
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , 30A Music
+http://30a-tv.com/music.m3u8?checkedby:iptvcat.com
