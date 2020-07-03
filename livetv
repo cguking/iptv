@@ -48,3 +48,7 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?check
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Cheddar 
+https://live.chdrstatic.com/cheddar/primary/1.m3u8?checkedby:iptvcat.com
