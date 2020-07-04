@@ -58,5 +58,7 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?checked
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Court TV
 http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 Canada Star TV
+#EXTINF:-1 , Canada Star TV
 http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w565131793_b2800000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
