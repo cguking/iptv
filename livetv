@@ -64,3 +64,5 @@ http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w56513
 https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1 , Scifi-4u
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:-1 , WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
