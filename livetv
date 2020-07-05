@@ -74,3 +74,5 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8?checkedby:iptvcat.co
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , NBC Miami Florida
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8?checkedby:iptvcat.com
