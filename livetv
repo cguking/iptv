@@ -102,3 +102,5 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?checkedby:iptvca
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Kiss UK
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/&checkedby:iptvcat.com
+#EXTINF:-1 , Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8?checkedby:iptvcat.com
