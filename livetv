@@ -84,3 +84,5 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 http://v3.tustreaming.cl/graciatv/live1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , BEK Sports
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Dustx
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
