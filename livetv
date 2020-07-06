@@ -90,3 +90,5 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Fox Denver CO
 http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , FOX Cleveland OH
+http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8?checkedby:iptvcat.com
