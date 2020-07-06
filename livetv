@@ -98,3 +98,5 @@ https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/l
 https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , C-Span
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 BBC Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8?checkedby:iptvcat.com
