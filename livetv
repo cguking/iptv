@@ -86,3 +86,5 @@ http://v3.tustreaming.cl/graciatv/live1/index.m3u8?checkedby:iptvcat.com
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Dustx
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXFINF:-1 , Fox Phoenix AZ
+http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8?checkedby:iptvcat.com
