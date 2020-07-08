@@ -106,35 +106,4 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , CCX Minesota
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , AMC Direct
-http://pcjatv.com:8080/live/31313131/31313131/19810.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , American Heroes Channel Direct
-http://pcjatv.com:8080/live/31313131/31313131/19811.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Animal Planet Direct
-http://pcjatv.com:8080/live/31313131/31313131/19812.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Comedy Central Direct
-http://pcjatv.com:8080/live/31313131/31313131/21246.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , FYI Direct
-http://pcjatv.com:8080/live/31313131/31313131/21271.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Food Network Direct
-http://pcjatv.com:8080/live/31313131/31313131/19873.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Fuse Direct
-http://pcjatv.com:8080/live/31313131/31313131/21270.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 Game Show Network Direct
-http://pcjatv.com:8080/live/31313131/31313131/21273.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , HGTV Direct
-http://pcjatv.com:8080/live/31313131/31313131/19897.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Hallmark Drama Direct
-http://pcjatv.com:8080/live/31313131/31313131/21279.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , History Channel Direct
-http://pcjatv.com:8080/live/31313131/31313131/21282.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 Lifetime Direct
-http://pcjatv.com:8080/live/31313131/31313131/19908.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , MTV Direct
-http://pcjatv.com:8080/live/31313131/31313131/21301.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , MTV 2 Direct
-http://pcjatv.com:8080/live/31313131/31313131/21304.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , NBA TV Direct
-http://pcjatv.com:8080/live/31313131/31313131/19927.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Oxygen Direct
-http://pcjatv.com:8080/live/31313131/31313131/21335.m3u8?checkedby:iptvcat.com
+
