@@ -114,3 +114,5 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?check
 https://video.oct.dc.gov/out/u/DCN.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 . Spike 
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.com
