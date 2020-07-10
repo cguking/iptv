@@ -1,6 +1,6 @@
 #EXTINF:-1 , 30A Music tvg-logo="https://pbs.twimg.com/profile_images/1063648455946424320/-WdnlpX7_400x400.jpg"
 http://30a-tv.com/music.m3u8?checkedby:iptvcat.com 
-#EXTINF:-1 , Newsy
+#EXTINF:-1 , Newsy tvg-logo="https://www.multichannel.com/.image/t_share/MTYzOTI5MDY4NjI5MTQxMzI5/newsy-logo.jpg"
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31226.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , ADN 40 Arabic
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?checkedby:iptvcat.com
@@ -38,21 +38,21 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8?check
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 CBN(Espanol)
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , CBS
+#EXTINF:-1 , CBS tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo.png"
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , CBS Albany
+#EXTINF:-1 , CBS Albany tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fcbs6albany.com%2Fstation&psig=AOvVaw1xJJvgXWG3S3FB5b6RSSLQ&ust=1594433191018000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj6odLMweoCFQAAAAAdAAAAABAD"
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , CBSN Boston
+#EXTINF:-1 , CBSN Boston tvg-logo="https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/08/Combo-Logo-BOSTON.png"
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , CBSN Los Angeles
+#EXTINF:-1 , CBSN Los Angeles tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flosangeles.cbslocal.com%2Flive%2Fcbsn-la%2F&psig=AOvVaw2SGsvEZKPLv0VD_lDxbEYe&ust=1594433281517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCUt_3MweoCFQAAAAAdAAAAABAD"
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , CBSN New York
+#EXTINF:-1 , CBSN New York tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/75851A45-4183-4103-B130-19864D1E84A3.png/revision/latest/scale-to-width-down/340?cb=20200122220933"
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , California Music Channel
+#EXTINF:-1 , California Music Channel tvg-logo="https://i.pinimg.com/originals/c7/c4/be/c7c4bea30202aab2e9d117a4cb71944a.jpg"
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , Cheddar 
+#EXTINF:-1 , Cheddar tvg-logo="https://s3.amazonaws.com/cheddar-production/assets/6e9dd681-6162-4b42-859c-583df4bc6d68.png"
 https://live.chdrstatic.com/cheddar/primary/1.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 , ABC (KERO)
+#EXTINF:-1 , ABC (KERO) tvg-logo="https://66.media.tumblr.com/6cbc5086f04625f17707dd2a13d46851/aa06113ff149f4df-c8/s1280x1920/bb874459a8364b6dbdbdd9a1901eebbd0191419a.png"
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 , Always Funny Pets
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
