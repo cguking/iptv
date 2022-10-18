@@ -99,3 +99,5 @@ https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.int
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.partyviberadio.com:8016/listen.pls?sid=1&t=.m3u
 #EXTINF-1, 2000's hits
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.136.201:5457/listen.pls?sid=1&t=.m3u
+#EXTINF-1, CNBC World News
+http://pha.tv:8080/amirxhanna/yu91542/2459
