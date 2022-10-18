@@ -95,3 +95,5 @@ http://stream01048.westreamradio.com/wsm-am-mp3
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.56.193.129:8100/listen.pls?sid=1&t=.m3u
 #EXTINF-1, Time To Dance Radio
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8332/listen.pls&t=.m3u
+#EXTINF-1, Party Vibe Radio Rap
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.partyviberadio.com:8016/listen.pls?sid=1&t=.m3u
