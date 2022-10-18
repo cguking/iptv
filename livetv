@@ -97,3 +97,5 @@ https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.56.
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8332/listen.pls&t=.m3u
 #EXTINF-1, Party Vibe Radio Rap
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.partyviberadio.com:8016/listen.pls?sid=1&t=.m3u
+#EXTINF-1, 2000's hits
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.136.201:5457/listen.pls?sid=1&t=.m3u
