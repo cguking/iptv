@@ -79,6 +79,8 @@ http://mains.services:2086/0776777761/4665816537/562
 http://saw.duplex-ott.net:2052/173802677334/375053533509/148146
 #EXTINF-1, HBO Zone USA
 http://pha.tv:8080/amirxhanna/yu91542/2876
+#EXTINF-1, HBO Zone USA(Backup)
+http://ott-serveur.com:8000/191218158988564/606042964797467/75174
 #EXTINF-1, Country Radio 
 http://stream01048.westreamradio.com/wsm-am-mp3
 #EXTINF-1, Entertainment Network
