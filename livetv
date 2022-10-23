@@ -124,6 +124,8 @@ http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87888
 http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87895
 #EXTINF:-1, TNT EAST
 http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87897
+#EXTINF:-1, TNT EAST(Backup)
+http://mains.services:2086/0776777761/4665816537/298
 #EXTINF:-1, Starz Kids & Family USA
 http://ott-serveur.com:8000/191218158988564/606042964797467/75302
 #EXTINF:-1, Starz USA
