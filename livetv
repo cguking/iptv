@@ -132,6 +132,9 @@ http://mains.services:2086/0776777761/4665816537/64083
 http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87873
 #EXTINF:-1, Sundance USA
 http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87888
+#EXTINF:-1, Sundance USA (Backup)
+http://mains.services:2086/0776777761/4665816537/1284
+http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87888
 #EXTINF:-1, TLC EAST USA
 http://s2.famousiptv.com:8080/Nassim2022/Nassim2023/87895
 #EXTINF:-1, TNT EAST
