@@ -20,8 +20,10 @@ http://pha.tv:8080/amirxhanna/yu91542/286
 #EXTINF:-1,Disney Channel USA
 http://185.135.157.154:8060/lucky/jfdnndsfs/100395
 #EXTINF:-1, Disney Channel USA (Backup)
-#EXTINF:-1,Disney XD
+#EXTINF:-1,Disney XD USA 
 http://boarcage.top:8080/live/9751662563349077/6891662563349077/25674.ts
+#EXTINF:-1, Disney XD USA (backup)
+http://ott-serveur.com:8000/191218158988564/606042964797467/75240
 #EXTINF:-1,Disney Jr
 http://mains.services:2086/0776777761/4665816537/64130
 #EXTINF:-1,USA FOX NEWS
